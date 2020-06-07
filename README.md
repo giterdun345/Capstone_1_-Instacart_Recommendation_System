@@ -1,4 +1,4 @@
-# Capstone 1-Instacart Recommendation System
+# Instacart Recommendation System
 
 In this project... 
 * Predict the next order more specifically what item will the user purchase next
